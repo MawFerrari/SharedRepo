@@ -1,0 +1,4 @@
+customerNumber,customerName,birthDate,city,state,country,revenue
+103,"Atelier graphique",1971-03-24,Nantes,NULL,France,21000.00
+112,"Signal Gift Stores",1980-11-30,"Las Vegas",NV,USA,71800.00
+150,S-Store,1964-05-07,Berlin,NULL,Germany,54500.00
